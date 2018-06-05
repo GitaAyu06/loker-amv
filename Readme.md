@@ -19,6 +19,6 @@ part kodingan yang sudah ditest
 - [ ] sd card logger
 - [x] buzzer
 - [ ] relay
-- [ ] rfid
+- [x] rfid
 
 setelah semua terceklist langsung buat main programnya
